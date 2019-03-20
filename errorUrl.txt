@@ -1,0 +1,108 @@
+
+无法打开图片： http://www.icsm.com.cn/upload/img/o9eN1tJIl9Kw3hfPpivZI472LoYWse1FrTt5WXxBXU0aQYDza39sNQXKes-Xr2Xld67OUV/6mMBmUUJwzVBoUt5/4XjG4PlhTIkMHElgqXig54sUmIk2nW4.jpg
+403： http://img07.tooopen.com/images/20170311/tooopen_sl_114553543058.jpg
+无法打开图片： http://img.soufun.com/news/2013_10/31/87/74/hd/401407626500.jpg
+403： http://bpic.ooopic.com/16/07/04/16070460-952879c6b2bf6acc7a266fa72d85ab1f-0.jpg
+403： http://bpic.wotucdn.com/18/58/88/18588882-d57e09a0ddc2bf7bf66a757d2629ee1e-4.jpg
+抛出异常： http://img2.kuyibu.com/big/2017/6/22/16/0783729311443739.jpg
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+403： http://pic.58pic.com/uploadfilepic/shiliang/2009-02-06/58PIC_865478081_2009020637ff748c4931b59a.jpg
+403： http://bpic.ooopic.com/15/96/80/15968060-63379016fcaf6fb8acd5b26bbe3697c6-0.jpg
+无法打开图片： http://img01.taopic.com/160119/240409-16011Z9112927.jpg
+403： http://bpic.wotucdn.com/18/58/88/18588882-d57e09a0ddc2bf7bf66a757d2629ee1e-6.jpg
+403： http://bpic.wotucdn.com/18/58/88/18588882-d57e09a0ddc2bf7bf66a757d2629ee1e-3.jpg
+抛出异常： http://www.ldjs.gov.cn/xxgk/gzdt/gzdt_2461/201706/W020170622540191914000.jpg
+HTTPConnectionPool(host='www.ldjs.gov.cn', port=80): Max retries exceeded with url: /xxgk/gzdt/gzdt_2461/201706/W020170622540191914000.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc1d5518>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+404： http://news.sun0769.com/international/jx/201402/W020140213392973071612.jpg
+抛出异常： http://i.dyt6.cc/cb/16/f9/6e/4b/23/6a/fe/e7/9c/ba/5f/4e/6b/53/e7.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+404： http://news.k618.cn/society/201704/W020170428793253136022.jpg
+404： http://news.k618.cn/society/201704/W020170428793222021339.jpg
+抛出异常： http://i.dyt2.cc/54/83/32/fe/3d/84/0b/1f/8d/1a/7f/9a/24/9b/3f/04.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+403： http://bpic.ooopic.com/16/44/03/16440314-71409402e92613329593be4f79f0e0ae.jpg
+抛出异常： http://i.dyt8.cc/08/f2/7d/3d/fe/24/44/29/70/53/11/6b/50/63/2f/c6.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt8.cc/87/40/b9/31/5f/22/a8/a6/09/2d/2f/28/d8/84/0f/9f.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt4.cc/91/36/af/ea/e2/5d/8a/77/22/59/f0/97/c5/c1/32/c5.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt9.cc/c2/67/89/9b/aa/2d/82/35/dd/51/c1/bd/b6/40/9c/7a.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt4.cc/e9/87/9b/59/35/32/da/e2/2c/4a/58/e5/9e/d9/2d/f2.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt3.cc/2b/35/6a/b0/8a/5f/f1/3d/19/84/fb/38/52/71/6c/31.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt9.cc/f4/8f/0a/26/7e/41/77/8a/5f/78/a6/2c/d7/4e/8c/f4.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://i.dyt2.cc/4e/27/b4/b6/4a/a8/37/69/86/e1/c7/6c/b1/e5/05/9f.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+403： http://bpic.ooopic.com/16/44/03/16440314-b3116e7f8408f8823dffecba9eb58372-1.jpg
+403： http://bpic.ooopic.com/16/44/03/16440314-788e1d2cd624fd2b4b945cf97d515e78-1.jpg
+403： http://bpic.ooopic.com/16/44/03/16440314-788e1d2cd624fd2b4b945cf97d515e78-0.jpg
+抛出异常： http://i.dyt1.cc/94/ab/ed/89/a3/ac/62/05/e6/5e/1c/f7/1a/d7/03/a9.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+404： http://www.zmdfcw.cn/userfiles/image/20170704/04165635a14ef840ce5047.jpg
+403： http://img2.ooopic.com/11/78/36/82bOOOPICd4_202.jpg
+404： http://www.jingyanbus.com/uploads/allimg/150410/4180_150410150524_1.jpg
+403： http://pic.ikafan.com/imgp/L3Byb3h5L2h0dHAvaW1hZ2UxMDUuMzYwZG9jLmNvbS9Eb3dubG9hZEltZy8yMDE3LzA0LzE2MTEvOTY3ODExMzhfMQ==.jpg
+403： http://bpic.ooopic.com/15/92/97/15929732-64554b366174f3607c3249a8010c7a66-1.jpg
+403： http://bpic.ooopic.com/16/07/05/16070507-42c568112c21a1c0a64b321c63572d96-1.jpg
+抛出异常： http://i.dyt5.cc/f0/4d/a3/3d/3c/77/41/8e/d5/58/54/d4/7e/ca/57/46.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://news.qingdaonews.com/images/attachement/jpg/site1/20140306/689423015388148231f81c.jpg
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+404： http://cdn2.bjweekly.com/uploads/2017-09-19/6896985968243058044.jpg
+404： http://www.qlmoney.com/uploadfile/2017/0517/20170517084333682.jpg
+404： http://img.cyol.com/img/news/attachement/jpg/site2/20160804/IMGa4badbfd75e84202805446113464195.jpg
+抛出异常： http://ilonghua.cyntd.com/html/DIgDTjpONjfMODxqNjLnONqFO1NSNtbMIttPNkxOOyZYTIDTINbMISZTHDNPH1qDItjWUNV.jpg
+HTTPConnectionPool(host='ilonghua.cyntd.com', port=80): Max retries exceeded with url: /html/DIgDTjpONjfMODxqNjLnONqFO1NSNtbMIttPNkxOOyZYTIDTINbMISZTHDNPH1qDItjWUNV.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc15b7b8>: Failed to establish a new connection: [Errno -5] No address associated with hostname',))
+抛出异常： http://i.dyt3.cc/36/1b/54/0e/82/7c/43/f4/1e/c7/96/ac/9a/9b/4e/b6.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+无法打开图片： http://tb2988.com/uploads/images/103-160Z9114044D5.jpg
+403： http://pic2.ooopic.com/12/25/89/61bOOOPICfb_1024.jpg
+无法打开图片： http://www.taopic.com/uploads/allimg/140617/318758-14061G12J979.jpg
+抛出异常： http://img.wjdbg.com/img/daf9cb0df5578da1.jpg
+HTTPConnectionPool(host='img.wjdbg.com', port=80): Max retries exceeded with url: /img/daf9cb0df5578da1.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4c9c4b8898>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+403： http://pic2.ooopic.com/12/00/16/34bOOOPIC48_1024.jpg
+403： http://pic2.ooopic.com/12/01/27/70bOOOPICc8_1024.jpg
+403： http://bpic.ooopic.com/18/48/77/18487715-8449ac68dc04ec85467bfb9ff28f4000-7.jpg
+抛出异常： http://www.whgov.com.cn/UpLoadFile/2015-10-22/20151022170031293.jpg
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+403： http://pic.58pic.com/58pic/12/30/36/69t58PICqhx.jpg
+404： http://img01.e23.cn/2014/0506/20140506060249342.jpg
+403： http://img2.ooopic.com/14/36/95/61bOOOPIC05_202.jpg
+抛出异常： http://www.blgwj.gov.cn/upload/image/20130711/IMG_0677_2222.jpg
+HTTPConnectionPool(host='www.blgwj.gov.cn', port=80): Max retries exceeded with url: /upload/image/20130711/IMG_0677_2222.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4c9c4ece80>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+抛出异常： http://jzgwj.bl.gov.cn/upload/image/20130711/IMG_0598_11111.jpg
+HTTPConnectionPool(host='jzgwj.bl.gov.cn', port=80): Max retries exceeded with url: /upload/image/20130711/IMG_0598_11111.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc176588>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+抛出异常： http://www.canbaoyi.com/uploads/img/140b6e01ddd6fcd0348b7003a7572c0a.jpg
+HTTPConnectionPool(host='www.canbaoyi.com', port=80): Max retries exceeded with url: /uploads/img/140b6e01ddd6fcd0348b7003a7572c0a.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc17ff98>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+404： http://www.iyaxin.com/fazhi/attachement/jpg/site2/20080708/00138f97aba609dd207d16.jpg
+抛出异常： http://www.hebxf.net/attachement/jpg/site2/20131019/ec55f9a52ad913ccc3f611.jpg
+HTTPConnectionPool(host='www.hebxf.net', port=80): Max retries exceeded with url: /attachement/jpg/site2/20131019/ec55f9a52ad913ccc3f611.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4ce01800b8>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+403： http://pic.vjshi.com/prepic/max/2018-01-07/888deaa8abbf3350655ec59b9d4800a0.jpg
+403： http://img2.ooopic.com/11/40/32/48bOOOPIC16_202.jpg
+403： http://bpic.ooopic.com/15/81/63/15816352-9544b88b15a62349d1fd360574e7cb37-7.jpg
+抛出异常： http://i.dyt9.cc/54/94/9f/f1/be/6a/6c/72/30/e8/f3/29/fa/6d/06/e3.jpg
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:645)
+抛出异常： http://www.ptbus.com/uploads/allimg/1405/27/3893-14052G43035.jpg
+HTTPConnectionPool(host='www.ptbus.com', port=80): Max retries exceeded with url: /uploads/allimg/1405/27/3893-14052G43035.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc178748>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+无法打开图片： http://sichuan.scol.com.cn/amsc/img/attachement/jpg/site2/20140813/d4bed9d1cbdb155573ad5c.jpg
+403： http://thumb109.hellorf.com/preview/349173728.jpg
+404： http://img.efw.cn/Articles/2012-11-13/w_T2012111315534731111326015498201.jpg
+抛出异常： http://upload.tetimes.com/2016/1120/1479648142372.jpg
+HTTPConnectionPool(host='upload.tetimes.com', port=80): Max retries exceeded with url: /2016/1120/1479648142372.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc187860>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+404： http://img001.21cnimg.com/photos/album/20160520/m600/81A706E549680029106A1B70850168F3.jpeg
+403： http://vpic.quanjing.com/0603/QM060321675.jpg?Expires=1549814400&OSSAccessKeyId=Eqb5wEvN1pFq3yMZ&Signature=ExlOTZiHj3ALypsCHLN3fy49Ob8=&x-oss-process=image/resize,m_fixed,w_360,h_203
+404： http://img5.iqilu.com/c/u/2013/0923/1379908107747.jpg
+403： http://pic.vjshi.com/prepic/max/2017-05-31/8531201ae14f2cc62c754613dcda2c89.jpg
+抛出异常： http://bhsb.tjbhnews.com/resfile/2014-11-05/02/p2_b.jpg
+HTTPConnectionPool(host='bhsb.tjbhnews.com', port=80): Max retries exceeded with url: /resfile/2014-11-05/02/p2_b.jpg (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f4cbc18eba8>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+无法打开图片： http://www.cnhuadong.net/uploadfiles/images/2015-4-8/201548152542jpg53389.jpg
+403： http://bpic.ooopic.com/17/12/17/17121743-b04771c5a849a24ff8d3680f9d9458ca-2.jpg
+404： http://www.fsfood.gov.cn/zdgz/201311/W020131120363709418699.jpg
+404： http://www.dezhoudaily.com/liv_loadfile/yuedu/mrqw/fold105/1421984977_43157600.jpg
+403： http://pic.58pic.com/58pic/13/18/60/42258PICEWu_1024.jpg
+404： http://img5.iqilu.com/c/u/2015/0109/1420807740513.jpg
+403： http://pic2.ooopic.com/13/52/54/88b1OOOPICf5.jpg
