@@ -5,7 +5,7 @@ import time
 from bs4 import BeautifulSoup
 
 def FindLink(PageNum, InputData):
-    existUrl = os.path.join("/home/kuangrx/pics/logs/", 'bings_en2_errorUrl.txt')
+    errorUrl = os.path.join("/home/kuangrx/pics/logs/", 'bings_en2_errorUrl.txt')
     # 记录下载过的图片地址，避免重复下载
     img_url_dic = []
     x = 0
@@ -60,7 +60,7 @@ def FindLink(PageNum, InputData):
                                 print(str(res.status_code), ":", finalUrl)
                                 judge = 1
                                 errorNum += 1
-                                with open(existUrl, "a", encoding="utf-8") as f:
+                                with open(errorUrl, "a", encoding="utf-8") as f:
                                     f.write(finalUrl + '\n')
                             if (judge == 0):
                                 with open(target, "wb") as f:
@@ -70,7 +70,7 @@ def FindLink(PageNum, InputData):
                                     x += 1
                         except Exception as e:
                             print("抛出异常：", finalUrl)
-                            with open(existUrl, "a", encoding="utf-8") as f:
+                            with open(errorUrl, "a", encoding="utf-8") as f:
                                 f.write(finalUrl + '\n')
                             errorNum += 1
                             print(e)
@@ -92,7 +92,7 @@ def FindLink(PageNum, InputData):
             #     SaveImage(link, word, count)
         except:
             print('URL OPENING ERROR !')
-    with open(existUrl, "a", encoding="utf-8") as f:
+    with open(errorUrl, "a", encoding="utf-8") as f:
         f.write("soup Done.Num: %s. Total: %s. Error: %s. Repeat: %s" % (i, len(imglist),errorNum,repeatNum))
 
 if __name__=='__main__':
